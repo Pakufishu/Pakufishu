@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋🐡
 
-Cs student based in Thailand
- 📖 Learning Python, Java, C++
+CS student based in Thailand 🇹🇭
+
+📖 Learning Python, Java, C++
